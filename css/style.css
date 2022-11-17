@@ -985,6 +985,7 @@ hr {
     margin-top: 123px;
     position: fixed;
     width: 34%;
+    z-index: 999;
   }
 
   .header__second {
